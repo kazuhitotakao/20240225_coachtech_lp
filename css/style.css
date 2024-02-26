@@ -147,7 +147,7 @@
 .service {
     position: relative;
     width: 100%;
-    height: 700px;
+    height: 900px;
 }
 .service-en {
     position: absolute;
@@ -181,17 +181,23 @@
 }
 .service2__img {
     width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .service2__img img {
-    width: 100%;
+    height: 80%   
 }
 .service3__img {
     width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .service3__img img {
-    width: 100%;
+    height: 80%;
 }
 .service1{
     grid-column: 1/2;
@@ -331,7 +337,7 @@
 .info{
     position: relative;
     width: 100%;
-    height: 400px;
+    height: 300px;
     display: flex;
 }
 
