@@ -36,29 +36,31 @@
 }
 .msg-en{
     position: absolute;
-    top: 50px;
-    left: 100px;
+    top: 10%;
+    left: 10%;
     font-family: "Annie Use Your Telescope", cursive;
     color: #b38fff;
-    font-size: 50px;
+    font-size: 5vw;
 }
 .msg-en span{
     color: #06a1b3;
 }
 .msg-ja{
     position: absolute;
-    top: 230px;
-    left: 100px;
+    top: 52%;
+    left: 10%;
     color: #b38fff;
     font-weight: bold;
+    font-size: 1.5vw;
 }
 .msg-ja span{
     color: #06a1b3;
 }
 .company-info {
     position: absolute;
-    top: 270px;
-    left: 100px;
+    top: 60%;
+    left: 10%;
+    font-size: 1vw;
 }
 
 /* news */
